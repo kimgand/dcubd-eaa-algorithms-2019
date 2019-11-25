@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="이진검색.c">
+    <ClCompile Include="search_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
